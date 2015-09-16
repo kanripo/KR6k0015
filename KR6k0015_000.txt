@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 四分比丘尼羯磨法
+#+DATE: 2015-08-30 20:40:24.220504
+#+PROPERTY: JUAN 0
